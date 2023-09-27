@@ -37,6 +37,13 @@ const hotelData = [
     rate: 5,
   },
   {
+    local: "Lençois Maranhenses",
+    name: "Hotel Noite Feliz",
+    src: "./assets/pexels-thorsten-technoman-338504.jpg",
+    pricing: 700.0,
+    rate: 3.5,
+  },
+  {
    Localização: "Fortaleza",
     Nome: "Hotel Villa Reali",
     Imagem: "https://images.pexels.com/photos/594077/pexels-photo-594077.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
